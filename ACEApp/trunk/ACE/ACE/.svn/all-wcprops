@@ -1,0 +1,1121 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iphone/!svn/ver/1204/NECC_ACE_iOS/trunk/ACE/ACE
+END
+ACEJsonGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/1047/NECC_ACE_iOS/trunk/ACE/ACE/ACEJsonGenerator.h
+END
+ACEMasterDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/797/NECC_ACE_iOS/trunk/ACE/ACE/ACEMasterDataManager.h
+END
+ACEConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ACEConstants.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASINetworkQueue.h
+END
+PBUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/PBUtilities.h
+END
+ACEJsonGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/1047/NECC_ACE_iOS/trunk/ACE/ACE/ACEJsonGenerator.m
+END
+ACEMasterDataManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iphone/!svn/ver/1082/NECC_ACE_iOS/trunk/ACE/ACE/ACEMasterDataManager.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASINetworkQueue.m
+END
+PBUtilities.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/PBUtilities.m
+END
+IconIndicater.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/IconIndicater.png
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIHTTPRequestConfig.h
+END
+ACEConfigurationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/ACEConfigurationManager.h
+END
+SBJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/SBJsonParser.h
+END
+curriculaListView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/curriculaListView.xib
+END
+ACETeamsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/785/NECC_ACE_iOS/trunk/ACE/ACE/ACETeamsManager.h
+END
+ASIWebPageRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIWebPageRequest.h
+END
+ACEConfigurationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/864/NECC_ACE_iOS/trunk/ACE/ACE/ACEConfigurationManager.m
+END
+SBJsonParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/SBJsonParser.m
+END
+curriculamListItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/curriculamListItem.h
+END
+ACETeamsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/872/NECC_ACE_iOS/trunk/ACE/ACE/ACETeamsManager.m
+END
+Localizable.strings
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/1149/NECC_ACE_iOS/trunk/ACE/ACE/Localizable.strings
+END
+ASIWebPageRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIWebPageRequest.m
+END
+curriculamListItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/curriculamListItem.m
+END
+iCarousel.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/1193/NECC_ACE_iOS/trunk/ACE/ACE/iCarousel.h
+END
+ACEUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/ACEUser.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASICacheDelegate.h
+END
+iCarousel.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/1193/NECC_ACE_iOS/trunk/ACE/ACE/iCarousel.m
+END
+ACEUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/ACEUser.m
+END
+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/SBJSON.h
+END
+ACESchool.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/ACESchool.h
+END
+SA_summarizeGridcell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iphone/!svn/ver/993/NECC_ACE_iOS/trunk/ACE/ACE/SA_summarizeGridcell.xib
+END
+ACEDataCommunicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ACEDataCommunicator.h
+END
+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/SBJSON.m
+END
+ACESchool.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/ACESchool.m
+END
+SA_summarizeGridcell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/912/NECC_ACE_iOS/trunk/ACE/ACE/SA_summarizeGridcell.h
+END
+ACE-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ACE-Prefix.pch
+END
+LocationController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iphone/!svn/ver/1184/NECC_ACE_iOS/trunk/ACE/ACE/LocationController.xib
+END
+ACEStudentsDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iphone/!svn/ver/785/NECC_ACE_iOS/trunk/ACE/ACE/ACEStudentsDataManager.h
+END
+ACEDataCommunicator.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ACEDataCommunicator.m
+END
+ACEResetPasswordManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/824/NECC_ACE_iOS/trunk/ACE/ACE/ACEResetPasswordManager.h
+END
+DBOn0725.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/DBOn0725.sqlite
+END
+SA_summarizeGridcell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/912/NECC_ACE_iOS/trunk/ACE/ACE/SA_summarizeGridcell.m
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/1093/NECC_ACE_iOS/trunk/ACE/ACE/Constants.h
+END
+ACEStudentsDataManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/1135/NECC_ACE_iOS/trunk/ACE/ACE/ACEStudentsDataManager.m
+END
+IT_SummarizeGridCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/968/NECC_ACE_iOS/trunk/ACE/ACE/IT_SummarizeGridCell.h
+END
+ACEResetPasswordManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iphone/!svn/ver/1037/NECC_ACE_iOS/trunk/ACE/ACE/ACEResetPasswordManager.m
+END
+learnMore.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/1185/NECC_ACE_iOS/trunk/ACE/ACE/learnMore.xib
+END
+AECPullManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/950/NECC_ACE_iOS/trunk/ACE/ACE/AECPullManager.h
+END
+Constants.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/1184/NECC_ACE_iOS/trunk/ACE/ACE/Constants.m
+END
+IT_SummarizeGridCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/968/NECC_ACE_iOS/trunk/ACE/ACE/IT_SummarizeGridCell.m
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIDataCompressor.h
+END
+ALPickerViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/996/NECC_ACE_iOS/trunk/ACE/ACE/ALPickerViewCell.h
+END
+AECPullManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/1133/NECC_ACE_iOS/trunk/ACE/ACE/AECPullManager.m
+END
+AddStudentPage.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/1109/NECC_ACE_iOS/trunk/ACE/ACE/AddStudentPage.xib
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIDataCompressor.m
+END
+ALPickerViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/996/NECC_ACE_iOS/trunk/ACE/ACE/ALPickerViewCell.m
+END
+ACEStudent.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/1135/NECC_ACE_iOS/trunk/ACE/ACE/ACEStudent.h
+END
+TPKeyboardAvoidingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/TPKeyboardAvoidingScrollView.h
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/Reachability.h
+END
+ACEStudent.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/1135/NECC_ACE_iOS/trunk/ACE/ACE/ACEStudent.m
+END
+TPKeyboardAvoidingScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/TPKeyboardAvoidingScrollView.m
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/Reachability.m
+END
+ActiveSession.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/1160/NECC_ACE_iOS/trunk/ACE/ACE/ActiveSession.xib
+END
+ActiveSessionCustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ActiveSessionCustomCell.h
+END
+ACEUTILMethods.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/1137/NECC_ACE_iOS/trunk/ACE/ACE/ACEUTILMethods.h
+END
+TAPastDataCustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/1100/NECC_ACE_iOS/trunk/ACE/ACE/TAPastDataCustomCell.xib
+END
+ActiveSessionCustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iphone/!svn/ver/1050/NECC_ACE_iOS/trunk/ACE/ACE/ActiveSessionCustomCell.m
+END
+ACEUTILMethods.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/1137/NECC_ACE_iOS/trunk/ACE/ACE/ACEUTILMethods.m
+END
+ACESyncManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/997/NECC_ACE_iOS/trunk/ACE/ACE/ACESyncManager.h
+END
+curriculaListView.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/curriculaListView.h
+END
+TAPastDataCustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/TAPastDataCustomCell.h
+END
+ACESyncManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/1132/NECC_ACE_iOS/trunk/ACE/ACE/ACESyncManager.m
+END
+curriculaListView.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/curriculaListView.m
+END
+ACEITJsonGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/852/NECC_ACE_iOS/trunk/ACE/ACE/ACEITJsonGenerator.h
+END
+TAPastDataCustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/TAPastDataCustomCell.m
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIDownloadCache.h
+END
+._Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/._Constants.h
+END
+ACEMobile.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/957/NECC_ACE_iOS/trunk/ACE/ACE/ACEMobile.sqlite
+END
+ACEITJsonGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/1085/NECC_ACE_iOS/trunk/ACE/ACE/ACEITJsonGenerator.m
+END
+Options.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iphone/!svn/ver/1108/NECC_ACE_iOS/trunk/ACE/ACE/Options.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIAuthenticationDialog.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIDownloadCache.m
+END
+ACELocationInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/ACELocationInfo.h
+END
+._Constants.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/._Constants.m
+END
+LoginPage.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/1151/NECC_ACE_iOS/trunk/ACE/ACE/LoginPage.xib
+END
+Options.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iphone/!svn/ver/1138/NECC_ACE_iOS/trunk/ACE/ACE/Options.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIAuthenticationDialog.m
+END
+ACELocationInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/ACELocationInfo.m
+END
+LoginPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/1177/NECC_ACE_iOS/trunk/ACE/ACE/LoginPage.h
+END
+RequestPassword.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/1185/NECC_ACE_iOS/trunk/ACE/ACE/RequestPassword.xib
+END
+MyActiveSessions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/804/NECC_ACE_iOS/trunk/ACE/ACE/MyActiveSessions.h
+END
+JSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/JSON.h
+END
+IT_SummarizeGridCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iphone/!svn/ver/968/NECC_ACE_iOS/trunk/ACE/ACE/IT_SummarizeGridCell.xib
+END
+LoginPage.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/1177/NECC_ACE_iOS/trunk/ACE/ACE/LoginPage.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/1056/NECC_ACE_iOS/trunk/ACE/ACE/AppDelegate.h
+END
+LocationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/1108/NECC_ACE_iOS/trunk/ACE/ACE/LocationController.h
+END
+MyActiveSessions.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/804/NECC_ACE_iOS/trunk/ACE/ACE/MyActiveSessions.m
+END
+ACEMobile(5082012).sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ACEMobile(5%EF%80%A208%EF%80%A22012).sqlite
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/1165/NECC_ACE_iOS/trunk/ACE/ACE/AppDelegate.m
+END
+LocationController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/1128/NECC_ACE_iOS/trunk/ACE/ACE/LocationController.m
+END
+ACEAuthenticationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iphone/!svn/ver/784/NECC_ACE_iOS/trunk/ACE/ACE/ACEAuthenticationManager.h
+END
+learnMore.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/1071/NECC_ACE_iOS/trunk/ACE/ACE/learnMore.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIHTTPRequest.h
+END
+ACEAuthenticationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iphone/!svn/ver/1055/NECC_ACE_iOS/trunk/ACE/ACE/ACEAuthenticationManager.m
+END
+learnMore.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/1189/NECC_ACE_iOS/trunk/ACE/ACE/learnMore.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/main.m
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/1038/NECC_ACE_iOS/trunk/ACE/ACE/ASIHTTPRequest.m
+END
+NSData+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/NSData+Base64.h
+END
+ACECurriculumPullManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iphone/!svn/ver/1042/NECC_ACE_iOS/trunk/ACE/ACE/ACECurriculumPullManager.h
+END
+AddStudentPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/1135/NECC_ACE_iOS/trunk/ACE/ACE/AddStudentPage.h
+END
+NSData+Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/NSData+Base64.m
+END
+ACECurriculumPullManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iphone/!svn/ver/1117/NECC_ACE_iOS/trunk/ACE/ACE/ACECurriculumPullManager.m
+END
+AddStudentPage.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/1204/NECC_ACE_iOS/trunk/ACE/ACE/AddStudentPage.m
+END
+._ActiveSession.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/._ActiveSession.m
+END
+NSObject+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/NSObject+SBJSON.h
+END
+NSString+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/NSString+SBJSON.h
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIFormDataRequest.h
+END
+ActiveSessionCustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iphone/!svn/ver/996/NECC_ACE_iOS/trunk/ACE/ACE/ActiveSessionCustomCell.xib
+END
+._main.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/._main.m
+END
+NSObject+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/NSObject+SBJSON.m
+END
+NSString+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/NSString+SBJSON.m
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIFormDataRequest.m
+END
+ACEMobile1.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/1144/NECC_ACE_iOS/trunk/ACE/ACE/ACEMobile1.sqlite
+END
+CSJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/CSJsonParser.h
+END
+ACESchoolsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/785/NECC_ACE_iOS/trunk/ACE/ACE/ACESchoolsManager.h
+END
+CSJsonParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/CSJsonParser.m
+END
+ACESchoolsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/872/NECC_ACE_iOS/trunk/ACE/ACE/ACESchoolsManager.m
+END
+ACE-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/1191/NECC_ACE_iOS/trunk/ACE/ACE/ACE-Info.plist
+END
+IT_Setup_GridCustomCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iphone/!svn/ver/1100/NECC_ACE_iOS/trunk/ACE/ACE/IT_Setup_GridCustomCell.xib
+END
+ACECurriculumVersionsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/945/NECC_ACE_iOS/trunk/ACE/ACE/ACECurriculumVersionsManager.h
+END
+._StudentDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/._StudentDatabase.h
+END
+SBJsonBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/SBJsonBase.h
+END
+Define.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iphone/!svn/ver/1038/NECC_ACE_iOS/trunk/ACE/ACE/Define.h
+END
+ACECurriculumVersionsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/964/NECC_ACE_iOS/trunk/ACE/ACE/ACECurriculumVersionsManager.m
+END
+._StudentDatabase.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/._StudentDatabase.m
+END
+SBJsonBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/SBJsonBase.m
+END
+ACETeam.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/ACETeam.h
+END
+XTFirstViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iphone/!svn/ver/1135/NECC_ACE_iOS/trunk/ACE/ACE/XTFirstViewController.h
+END
+ACETeam.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/ACETeam.m
+END
+XTFirstViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iphone/!svn/ver/1195/NECC_ACE_iOS/trunk/ACE/ACE/XTFirstViewController.m
+END
+StudentDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/1149/NECC_ACE_iOS/trunk/ACE/ACE/StudentDatabase.h
+END
+ACESAJsonGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/818/NECC_ACE_iOS/trunk/ACE/ACE/ACESAJsonGenerator.h
+END
+ACETAJsonGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/852/NECC_ACE_iOS/trunk/ACE/ACE/ACETAJsonGenerator.h
+END
+Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/Logger.h
+END
+StudentDatabase.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/1199/NECC_ACE_iOS/trunk/ACE/ACE/StudentDatabase.m
+END
+IconIndicater@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/IconIndicater@2x.png
+END
+ACESAJsonGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/1084/NECC_ACE_iOS/trunk/ACE/ACE/ACESAJsonGenerator.m
+END
+._ACEMobDB.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/._ACEMobDB.sqlite
+END
+ACETAJsonGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/1084/NECC_ACE_iOS/trunk/ACE/ACE/ACETAJsonGenerator.m
+END
+Logger.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iphone/!svn/ver/783/NECC_ACE_iOS/trunk/ACE/ACE/Logger.m
+END
+ACEPastSessionDetailsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iphone/!svn/ver/1096/NECC_ACE_iOS/trunk/ACE/ACE/ACEPastSessionDetailsManager.h
+END
+ACEPastSessionDetailsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iphone/!svn/ver/1145/NECC_ACE_iOS/trunk/ACE/ACE/ACEPastSessionDetailsManager.m
+END
+ACEActivationCurriculumDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iphone/!svn/ver/950/NECC_ACE_iOS/trunk/ACE/ACE/ACEActivationCurriculumDetails.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIDataDecompressor.h
+END
+ACEActivationCurriculumDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iphone/!svn/ver/1167/NECC_ACE_iOS/trunk/ACE/ACE/ACEActivationCurriculumDetails.m
+END
+Credits.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/Credits.rtf
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIDataDecompressor.m
+END
+ACECurriculumDetailsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/1204/NECC_ACE_iOS/trunk/ACE/ACE/ACECurriculumDetailsManager.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIInputStream.h
+END
+ACECurriculumDetailsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/1204/NECC_ACE_iOS/trunk/ACE/ACE/ACECurriculumDetailsManager.m
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIInputStream.m
+END
+ActiveSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/1067/NECC_ACE_iOS/trunk/ACE/ACE/ActiveSession.h
+END
+ActiveSession.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/1171/NECC_ACE_iOS/trunk/ACE/ACE/ActiveSession.m
+END
+MBProgressHUD.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/MBProgressHUD.h
+END
+ALPickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/996/NECC_ACE_iOS/trunk/ACE/ACE/ALPickerView.h
+END
+._AceMobile0807.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/._AceMobile0807.sqlite
+END
+Options.xib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/1184/NECC_ACE_iOS/trunk/ACE/ACE/Options.xib
+END
+UITabBarController+Rotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/1079/NECC_ACE_iOS/trunk/ACE/ACE/UITabBarController+Rotation.h
+END
+MBProgressHUD.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/937/NECC_ACE_iOS/trunk/ACE/ACE/MBProgressHUD.m
+END
+ALPickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/996/NECC_ACE_iOS/trunk/ACE/ACE/ALPickerView.m
+END
+SBJsonWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/SBJsonWriter.h
+END
+IT_Setup_GridCustomCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/IT_Setup_GridCustomCell.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIProgressDelegate.h
+END
+._AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/._AppDelegate.m
+END
+UITabBarController+Rotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/1079/NECC_ACE_iOS/trunk/ACE/ACE/UITabBarController+Rotation.m
+END
+XTFirstViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iphone/!svn/ver/1066/NECC_ACE_iOS/trunk/ACE/ACE/XTFirstViewController.xib
+END
+ReachabilityViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iphone/!svn/ver/877/NECC_ACE_iOS/trunk/ACE/ACE/ReachabilityViewController.h
+END
+SBJsonWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/SBJsonWriter.m
+END
+IT_Setup_GridCustomCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/IT_Setup_GridCustomCell.m
+END
+ReachabilityViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iphone/!svn/ver/877/NECC_ACE_iOS/trunk/ACE/ACE/ReachabilityViewController.m
+END
+RequestPassword.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/865/NECC_ACE_iOS/trunk/ACE/ACE/RequestPassword.h
+END
+ACEDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/1203/NECC_ACE_iOS/trunk/ACE/ACE/ACEDataManager.h
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iphone/!svn/ver/776/NECC_ACE_iOS/trunk/ACE/ACE/ASIHTTPRequestDelegate.h
+END
+RequestPassword.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/1173/NECC_ACE_iOS/trunk/ACE/ACE/RequestPassword.m
+END
+CurrentSession.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/1194/NECC_ACE_iOS/trunk/ACE/ACE/CurrentSession.xib
+END
+ACEDataManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/864/NECC_ACE_iOS/trunk/ACE/ACE/ACEDataManager.m
+END

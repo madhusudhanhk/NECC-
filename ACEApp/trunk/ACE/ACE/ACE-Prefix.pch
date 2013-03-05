@@ -1,0 +1,27 @@
+//
+// Prefix header for all source files of the 'ACE' target in the 'ACE' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Define.h"
+    #import "Constants.h"
+    #import "StudentDatabase.h"
+#endif
+
+#ifdef DEBUG1
+#define  PBLog(x,...)	NSLog( @"<%p %@:(%d)> %s %@", self, [[NSString stringWithUTF8String:__FILE__] lastPathComponent], \
+__LINE__,  _cmd, [NSString stringWithFormat:(x), ##__VA_ARGS__])
+#else
+#define  PBLog 
+#endif
+
+
+#import "PBUtilities.h"

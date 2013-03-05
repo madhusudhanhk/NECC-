@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iphone/!svn/ver/904/NECC_ACE_iOS/Certificates/Distribution
+END
+AppleWWDRCA.cer
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iphone/!svn/ver/896/NECC_ACE_iOS/Certificates/Distribution/AppleWWDRCA.cer
+END
+privatekey.p12
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iphone/!svn/ver/896/NECC_ACE_iOS/Certificates/Distribution/privatekey.p12
+END
+ACE_AdHoc.mobileprovision
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iphone/!svn/ver/904/NECC_ACE_iOS/Certificates/Distribution/ACE_AdHoc.mobileprovision
+END
+Certificates.p12
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iphone/!svn/ver/896/NECC_ACE_iOS/Certificates/Distribution/Certificates.p12
+END

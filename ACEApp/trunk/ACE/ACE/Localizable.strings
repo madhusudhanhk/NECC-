@@ -1,0 +1,69 @@
+/* 
+  Localizable.strings
+  ACE
+
+  Created by Santosh Kumar on 8/13/12.
+  Copyright (c) 2012 MySpace. All rights reserved.
+*/
+
+"button_OK" = "OK";
+"button_Cancel" = "Cancel";
+"button_YES" = "Yes";
+"button_NO" = "No";
+"button_Continue" = "Continue";
+
+"login_failed_message" = "Incorrect username or password";
+
+"account_lock_warning" = "If you are unsure of your password, please request a new password or your account will be locked on your next incorrect attempt.";
+
+"reset_password" = "Your password request  has been received and a new password will be sent to your registered email ID.";
+
+"network_failure_message" = "Were sorry, there was an interruption in the internet connection, and data could not be synchronized.  Please verify connection and try again.";
+
+"summarize_error_message" = "You cannot summarize session data without first entering data for the training step.  Please enter data for the training step and then click 'Finish'.";
+
+"slow_network_erro" = "You are using a 3G connection, do you want to sync now (charges may apply).";
+
+"student_limit_message" = "You have reached the limit of 10 students,  please remove one in order to add another.";
+
+"ta_task_error_mesage" = "Total Task TA's require data for all steps.  Please fill in data for all steps then click 'Finish'.";
+
+"independence_change_mesaage" = "No change or decrease in independence over past 5 sessions.";
+
+"prev_user_data_message_part1" = "This device contains session data of the previous user,";
+
+"prev_user_data_message_part2" = "If you continue to login, all summarized data will be synced and any   unsummarized data will be lost. Do you wish to proceed?";
+
+"unsummrized_data_loss_error_message" = "One or more lessons with active sessions has been updated on the ACE.  If you wish to receive the update unsummarized data will be lost.  Select YES - If you wish to receive the update and delete unsumarized data. Select NO - If you wish to cancel update and summarize data first.";
+
+"consecutive_seesion_error" = "This was the second consecutive error during this session OR There have now been 2 consecutive errors during this session.";
+
+"3RD_error_message" = "This was the third error during this session OR There have now been 3 errors during this session.";
+
+
+"remove_student_message_part1" = "Are you sure you want to remove ";
+"remove_student_message_part2" = "from the list of students ?";
+
+"consucetive_message_better_80%" = "Two consecutive sessions at 80% Independence or better.";
+
+"consucetive_message_better_60%" = "Two consecutive sessions at 60% correct or less.";
+
+"consucetive_message_I_record" = "Two consecutive sessions with 'I' recorded for training step";
+
+"version_check_title" = "Checking Versions...";
+"updating_past_data_title" = "Updating Past Session Data...";
+"updating_curriculum_data_title" = "Updating Curriculum Data...";
+"syncing_sessions_title" = "Syncing Summarized Sessions...";
+
+//Recommendation Messages.
+//SA
+"SA_message_1" = "Two consecutive sessions at 80% Independence or better.";
+"SA_message_2" = "Two consecutive sessions at 60% correct or less.";
+
+//IT
+"IT_message_1" = "Two consecutive weeks at 80% Independence or better.";
+"IT_message_2" = "Two consecutive weeks at 60% correct or less.";
+
+//TA
+"TA_message_1" = "Two consecutive sessions with 'I' recorded for training step.";
+"TA_message_2" = "No change or decrease in independence over past 5 sessions.";
